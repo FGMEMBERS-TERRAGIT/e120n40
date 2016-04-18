@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Airport/ndb.ac 129.576667 44.536667 260.73 180
+OBJECT_SHARED Models/Airport/ils.xml 129.573142 44.532672 261.78 154.16
+OBJECT_SHARED Models/Industrial/generic_crane_01.ac 129.5858921 44.5680265 240.98 0
+OBJECT_SHARED Models/Industrial/generic_crane_01.ac 129.5881381 44.5746219 240.14 0
+OBJECT_SHARED Models/Airport/localizer.xml 129.559619 44.510269 267.59 295.8
+OBJECT_SHARED Models/Agriculture/PolyTunnel8.5x56.ac 129.5563848 44.5004227 262.81 0
+OBJECT_SHARED Models/Industrial/Zone-Indus.xml 129.5802728 44.5477841 230.79 0
+OBJECT_SHARED Models/Industrial/Zone-Indus.xml 129.5829639 44.5535851 236.6 0
+OBJECT_SHARED Models/Industrial/Zone-Indus.xml 129.5896173 44.5479233 228.82 0
+OBJECT_SHARED Models/Industrial/Zone-Indus.xml 129.5919787 44.5542326 235.87 0
+OBJECT_SHARED Models/Residential/tower-hexa.ac 129.5990403 44.5800225 239.01 0
+OBJECT_SHARED Models/Residential/tower-hexa.ac 129.6006897 44.5801284 238.35 0
+OBJECT_SHARED Models/Residential/tower-hexa.ac 129.6015436 44.5813025 240.2 0
+OBJECT_SHARED Models/Industrial/factory_b_120x120.xml 129.5664909 44.5582721 233.76 0
+OBJECT_SHARED Models/Residential/ResidentialTower_DDklotzsche.xml 129.5983954 44.5666729 239.89 0
+OBJECT_SHARED Models/Residential/ResidentialTower_DDklotzsche.xml 129.6015626 44.5694341 239.02 0
+OBJECT_SHARED Models/Industrial/edcf-water-tower-01.xml 129.5669802 44.5603158 232.58 0

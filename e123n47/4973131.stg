@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Airport/ndb.ac 123.946667 47.195 141.22 180
+OBJECT_SHARED Models/Airport/ils.xml 123.914397 47.24835 144.29 202.66
+OBJECT_SHARED Models/Communications/vordme_1.xml 123.921667 47.241667 145.02 180
+OBJECT_SHARED Models/Airport/localizer.xml 123.926681 47.225547 144.14 247.57
+OBJECT_SHARED Models/Agriculture/PolyTunnel8.5x56.ac 123.9243354 47.2101356 142.96 0
+OBJECT_SHARED Models/Agriculture/farmhouse3.ac 123.9315748 47.1980566 143.96 0
+OBJECT_SHARED Models/Power/rw_generic_pylon_50m.xml 123.8438725 47.249054 139 0
+OBJECT_SHARED Models/Power/rw_generic_pylon_50m.xml 123.8439427 47.2446504 139 0
+OBJECT_SHARED Models/Power/rw_generic_pylon_50m.xml 123.8458725 47.2426356 139 0
+OBJECT_SHARED Models/Power/rw_generic_pylon_50m.xml 123.860099 47.2362218 139.25 0
+OBJECT_SHARED Models/Power/rw_generic_pylon_50m.xml 123.8641298 47.2345311 139.82 0
+OBJECT_SHARED Models/Power/rw_generic_pylon_50m.xml 123.8695588 47.2337978 141.28 0
+OBJECT_SHARED Models/Agriculture/biogas_plant.ac 123.9378793 47.2173988 143.55 0
+OBJECT_SHARED Models/Agriculture/biogas_plant.ac 123.9392287 47.214891 144.83 0

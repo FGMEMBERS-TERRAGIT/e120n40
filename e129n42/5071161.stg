@@ -2,7 +2,7 @@ OBJECT_SHARED Models/Airport/ils.xml 129.439139 42.881514 188.37 278.33
 OBJECT_SHARED Models/Communications/vordme_1.xml 129.435833 42.883333 185.7 180
 OBJECT_SHARED Models/Airport/marker.ac 129.338333 42.878333 201.42 180
 OBJECT_SHARED Models/Industrial/generic_silo_1.ac 129.4703498 42.8939763 176.03 0
-OBJECT_SHARED Models/Airport/localizer.xml 129.471244 42.884969 177.85 171.62
+OBJECT_SHARED Models/Airport/localizer.xml 129.471244 42.884969 177.85 278.33
 OBJECT_SHARED Models/Power/generic_power_plant.xml 129.4463555 42.9004434 182.95 0
 OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 129.4459364 42.8761061 192.36 0
 OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 129.4665673 42.9024783 181.26 0

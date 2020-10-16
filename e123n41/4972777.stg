@@ -1,7 +1,7 @@
 OBJECT_SHARED Models/Airport/ils.xml 123.474128 41.629481 51.61 312.5
 OBJECT_SHARED Models/Airport/ils.xml 123.497511 41.645242 60.96 132.49
-OBJECT_SHARED Models/Communications/vordme_1.xml 123.48 41.638333 53.24 180
-OBJECT_SHARED Models/Airport/localizer.xml 123.468739 41.627325 50.05 314.66
+OBJECT_SHARED Models/Airport/localizer.xml 123.468739 41.627325 50.05 132.49
 OBJECT_SHARED Models/Residential/ZoneImmeublesTours.xml 123.4618849 41.7332352 45.45 0
 OBJECT_SHARED Models/Residential/ZoneImmeublesTours.xml 123.4683732 41.742562 46.65 0
 OBJECT_SHARED Models/Residential/ZoneImmeublesTours.xml 123.4716064 41.7319695 50.65 0
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 123.48 41.638333 53.24 180
